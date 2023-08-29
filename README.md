@@ -1,5 +1,5 @@
-# Base template for DRF-Djoser API
+# VentureEventi Coding Test Solution
 
 ## Actions
 
-![Project Actions](https://github.com/AlexCuenca99/drf-djoser-api-start-template/actions/workflows/testing.yml/badge.svg)
+![Project Actions](https://github.com/AlexCuenca99/venture-eventi-coding-test-back/actions/workflows/testing.yml/badge.svg)
